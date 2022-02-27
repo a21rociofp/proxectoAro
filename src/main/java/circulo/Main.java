@@ -9,7 +9,7 @@ import java.text.DecimalFormat;
 public class Main {
 
     /**
-     * Método principal que executa o proxectoAro
+     * Executa o proxectoAro
      * @param args
      */
     public static void main(String[] args) {

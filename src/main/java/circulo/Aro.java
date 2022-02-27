@@ -91,7 +91,7 @@ public class Aro {
 
 
     /**
-     * Método que devolve o diámetro do Aro
+     * Devolve o diámetro do Aro
      * @return o valor do diámetro (radio * 2)
      **/
 
@@ -102,7 +102,7 @@ public class Aro {
     
     
     /**
-     * Método que calcula a circunferencia do Aro
+     * Calcula a circunferencia do Aro
      * @return perímetro do Aro
      **/
 
@@ -111,7 +111,7 @@ public class Aro {
     }
     
     /**
-     * Método que calcula a área que contén o Aro
+     * Calcula a área que contén o Aro
      * @return superficie do interior do Aro
      **/
 
@@ -120,7 +120,7 @@ public class Aro {
     }
 
     /**
-     * Método que devolve unha cadea de texto coas coordenadas do centro e o radio do Aro
+     * Devolve unha cadea de texto coas coordenadas do centro e o radio do Aro
      * @return unha cadea de texto
      */
     @Override
@@ -129,7 +129,7 @@ public class Aro {
     }
 
     /**
-     * Método para desprazar as coordenadas do centro do Aro
+     * Despraza as coordenadas do centro do Aro
      * @param trasladarX
      * @param trasladarY
      */
